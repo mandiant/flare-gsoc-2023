@@ -10,7 +10,7 @@ Briefly, [capa](https://github.com/mandiant/capa) identifies the capabilities in
 ### Table of Contents
 * [capa: Ghidra Integration](#capa-ghidra-integration)
 * [capa: Capabilities from Dynamic Analysis](#capa-capabilities-from-dynamic-analysis)
-* [FLOSS: New Display Modes](#floss-new-display-modes)
+* [FLOSS: New Display Modes](#floss-novel-display-modes)
 * [FLOSS: Language Specific Strings (Go, Rust, ...)](#floss-language-specific-strings-go-rust-)
 * [FakeNet-NG: Interactive Graphical Summary of NBIs](#fakenet-ng-interactive-graphical-summary-of-nbis)
 
