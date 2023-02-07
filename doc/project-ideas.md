@@ -7,13 +7,12 @@ All of our project ideas revolve around reverse engineering tools. That is, we w
 
 Briefly, [capa](https://github.com/mandiant/capa) identifies the capabilities in executable files, such as "installs a service" or "downloads data via HTTP". [FLOSS](https://github.com/mandiant/flare-floss) automatically deobfuscated protected strings in malware. [FakeNet](https://github.com/mandiant/flare-fakenet-ng) intercepts and redirects all network traffic while simulating legitimate network services. Each of these tools is used by thousands of analysts to identify, describe, and stop malware.
 
-Table of contents:
-  - [capa: Ghidra Integration](https://github.com/mandiant/flare-gsoc-2023/blob/main/doc/project-ideas.md#capa-ghidra-integration)
-  - [capa: Capabilities from Dynamic Analysis](https://github.com/mandiant/flare-gsoc-2023/blob/main/doc/project-ideas.md#capa-capabilities-from-dynamic-analysis)
-  - [FLOSS: Novel Display Modes](https://github.com/mandiant/flare-gsoc-2023/blob/main/doc/project-ideas.md#floss-novel-display-modes)
-  - [FLOSS: Language-Specific Strings (Go, Rust, ...)](https://github.com/mandiant/flare-gsoc-2023/blob/main/doc/project-ideas.md#floss-language-specific-strings-go-rust-)
-  - [FakeNet-NG: Interactive Graphical Summary of NBIs](https://github.com/mandiant/flare-gsoc-2023/blob/main/doc/project-ideas.md#fakenet-ng-interactive-graphical-summary-of-nbis)
-
+### Table of Contents
+* [capa: Ghidra Integration](#capa-ghidra-integration)
+* [capa: Capabilities from Dynamic Analysis](#capa-capabilities-from-dynamic-analysis)
+* [FLOSS: New Display Modes](#floss-novel-display-modes)
+* [FLOSS: Language Specific Strings (Go, Rust, ...)](#floss-language-specific-strings-go-rust-)
+* [FakeNet-NG: Interactive Graphical Summary of NBIs](#fakenet-ng-interactive-graphical-summary-of-nbis)
 
 ## capa: Ghidra Integration
 *Develop a Ghidra Feature Extractor for capa*
@@ -99,7 +98,7 @@ We are currently aware of two Master’s thesis that cover similar approaches. A
 
 | Difficulty | Size         | Potential Mentors | Link                          | 
 | ---------- | ------------ | ----------------- | ----------------------------- |
-| Easy       | Small-Medium | Moritz Raabe      | [github.com/mandiant/flare-floss #370](https://github.com/mandiant/flare-floss/issues/370) |
+| Easy       | Small-Medium | Moritz Raabe      | [github.com/mandiant/flare-floss #626](https://github.com/mandiant/flare-floss/issues/626) |
 |            |              | Willi Ballenthin  |                               |
 
 ### Description
@@ -138,7 +137,7 @@ Today, FLOSS automatically deobfuscates protected strings found in malware. A ne
 
 | Difficulty | Size   | Potential Mentors | Link                          | 
 | ---------- | ------ | ----------------- | ----------------------------- |
-| Medium     | Medium | Moritz Raabe      | [github.com/mandiant/flare-floss #370](https://github.com/mandiant/capa/issues/370) |
+| Medium     | Medium | Moritz Raabe      | [github.com/mandiant/flare-floss #370](https://github.com/mandiant/flare-floss/issues/370) |
 |            |        | Willi Ballenthin  |                               |
 
 ### Description
