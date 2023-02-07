@@ -5,7 +5,7 @@ This document lists examples of projects that would be great for GSoC '23 contri
 
 All of our project ideas revolve around reverse engineering tools. That is, we want to improve the lives of malware analysts through novel techniques and automation. To succeed with any of these examples, you should have a basic familiarity with reverse engineering or a strong desire to learn.
 
-Briefly, capa identifies the capabilities in executable files, such as "installs a service" or "downloads data via HTTP". FLOSS automatically deobfuscated protected strings in malware. FakeNet intercepts and redirects all network traffic while simulating legitimate network services. Each of these tools is used by thousands of analysts to identify, describe, and stop malware.
+Briefly, [capa](https://github.com/mandiant/capa) identifies the capabilities in executable files, such as "installs a service" or "downloads data via HTTP". [FLOSS](https://github.com/mandiant/flare-floss) automatically deobfuscated protected strings in malware. [FakeNet](https://github.com/mandiant/flare-fakenet-ng) intercepts and redirects all network traffic while simulating legitimate network services. Each of these tools is used by thousands of analysts to identify, describe, and stop malware.
 
 
 ## capa: Ghidra Integration
