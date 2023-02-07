@@ -6,9 +6,9 @@ For those interested in applying, we have a non-exhaustive [list of project idea
 
 See you this summer!
 
-![FLARE logo](https://github.com/mandiant/flare-gsoc-2023/blob/master/doc/FLARE.png)
-![capa logo](https://github.com/mandiant/capa/blob/master/.github/logo.png)
-![FLOSS logo](https://github.com/mandiant/flare-floss/blob/master/resources/floss-logo.png)
+![FLARE logo](https://github.com/mandiant/flare-gsoc-2023/blob/main/doc/FLARE.png)<br />
+![capa logo](https://github.com/mandiant/capa/blob/master/.github/logo.png)<br />
+![FLOSS logo](https://github.com/mandiant/flare-floss/blob/master/resources/floss-logo.png)<br />
 ```
      ______      _  ________ _   _ ______ _______     _   _  _____
     |  ____/\   | |/ /  ____| \ | |  ____|__   __|   | \ | |/ ____|
