@@ -7,6 +7,13 @@ All of our project ideas revolve around reverse engineering tools. That is, we w
 
 Briefly, [capa](https://github.com/mandiant/capa) identifies the capabilities in executable files, such as "installs a service" or "downloads data via HTTP". [FLOSS](https://github.com/mandiant/flare-floss) automatically deobfuscated protected strings in malware. [FakeNet](https://github.com/mandiant/flare-fakenet-ng) intercepts and redirects all network traffic while simulating legitimate network services. Each of these tools is used by thousands of analysts to identify, describe, and stop malware.
 
+Table of contents:
+  - [capa: Ghidra Integration](https://github.com/mandiant/flare-gsoc-2023/blob/main/doc/project-ideas.md#capa-ghidra-integration)
+  - [capa: Capabilities from Dynamic Analysis](https://github.com/mandiant/flare-gsoc-2023/blob/main/doc/project-ideas.md#capa-capabilities-from-dynamic-analysis)
+  - [FLOSS: Novel Display Modes](https://github.com/mandiant/flare-gsoc-2023/blob/main/doc/project-ideas.md#floss-novel-display-modes)
+  - [FLOSS: Language-Specific Strings (Go, Rust, ...)](https://github.com/mandiant/flare-gsoc-2023/blob/main/doc/project-ideas.md#floss-language-specific-strings-go-rust-)
+  - [FakeNet-NG: Interactive Graphical Summary of NBIs](https://github.com/mandiant/flare-gsoc-2023/blob/main/doc/project-ideas.md#fakenet-ng-interactive-graphical-summary-of-nbis)
+
 
 ## capa: Ghidra Integration
 *Develop a Ghidra Feature Extractor for capa*
@@ -87,7 +94,7 @@ We are currently aware of two Master’s thesis that cover similar approaches. A
   - Basic understanding of Git
 
 
-## FLOSS: New Display Modes
+## FLOSS: Novel Display Modes
 *Overlay File Format and Metadata over Human Readable Strings*
 
 | Difficulty | Size         | Potential Mentors | Link                          | 
