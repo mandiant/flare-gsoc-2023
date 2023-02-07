@@ -93,7 +93,7 @@ We are currently aware of two Master’s thesis that cover similar approaches. A
   - Basic understanding of Git
 
 
-## FLOSS: New Display Modes
+## FLOSS: Novel Display Modes
 *Overlay File Format and Metadata over Human Readable Strings*
 
 | Difficulty | Size         | Potential Mentors | Link                          | 
